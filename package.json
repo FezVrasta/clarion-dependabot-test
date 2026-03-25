@@ -1,0 +1,10 @@
+{
+  "name": "clarion-dependabot-test",
+  "version": "1.0.0",
+  "description": "Test repo for Clarion Dependabot integration",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "axios": "0.21.1",
+    "minimist": "1.2.5"
+  }
+}
