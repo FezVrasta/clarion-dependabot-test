@@ -11,6 +11,11 @@
     "vm2": "3.9.17",
     "serialize-javascript": "2.1.2",
     "tar": "4.4.8",
-    "semver": "5.7.1"
+    "semver": "5.7.1",
+    "handlebars": "4.5.2",
+    "ejs": "2.7.1",
+    "marked": "0.3.19",
+    "express": "4.16.0",
+    "ws": "6.2.1"
   }
 }
