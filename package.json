@@ -4,7 +4,7 @@
   "dependencies": {
     "lodash": "4.17.15",
     "axios": "0.21.1",
-    "node-fetch": "2.6.0",
+    "node-fetch": "3.3.2",
     "minimist": "1.2.0",
     "serialize-javascript": "2.1.0",
     "handlebars": "4.0.11",
